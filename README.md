@@ -60,3 +60,27 @@ Run the development server
 npm run dev
 ```
 
+## Screenshots of Web Pages
+
+ 
+Landing Page
+     
+<img width="332" height="193" alt="image" src="https://github.com/user-attachments/assets/60bb1dae-b429-4211-a1b5-bf922ff41796" />
+
+Local Produce Page
+
+<img width="332" height="193" alt="image" src="https://github.com/user-attachments/assets/d8da6b7c-a400-4a77-8b41-f0180eca21ae" />
+
+Pantry Page
+
+<img width="332" height="193" alt="image" src="https://github.com/user-attachments/assets/8185f159-b2de-45be-a072-30489acca9c7" />
+
+Recipe Page
+
+<img width="332" height="193" alt="image" src="https://github.com/user-attachments/assets/f46c56b6-bbe6-4909-8423-589a4455dc1f" />
+
+
+Profile Page
+
+<img width="332" height="193" alt="image" src="https://github.com/user-attachments/assets/4506efa5-fb26-43a7-9db6-b671a341938d" />
+
