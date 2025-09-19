@@ -37,4 +37,26 @@ freshtrack/
 ├── vite.config.js
 ├── .gitignore
 └── README.md
+```
+
+## 🛠️ Installation & Setup
+
+Clone the repository
+
+```
+git clone https://github.com/your-username/freshtrack.git
+cd freshtrack
+```
+
+Install dependencies
+
+```
+npm install
+```
+
+Run the development server
+
+```
+npm run dev
+```
 
